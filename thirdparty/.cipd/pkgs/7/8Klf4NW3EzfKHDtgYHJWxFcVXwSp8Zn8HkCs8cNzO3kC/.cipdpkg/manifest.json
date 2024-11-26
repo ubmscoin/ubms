@@ -1,0 +1,106 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/rbe/client/linux-amd64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "CHANGELOG.md",
+      "size": 109477,
+      "hash": "TZaj1VEdcwrNAfOYEqJaIPZmxw92U6rb2iZMicPGMC8C"
+    },
+    {
+      "name": "LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "NOTICE",
+      "size": 9202,
+      "hash": "qQpPN04X1isXJb1ofspxrnEQ3tDC_j4vBsm6cXYWm1wC"
+    },
+    {
+      "name": "bootstrap",
+      "size": 16652469,
+      "executable": true,
+      "hash": "P6WWCBDDTHn0hbQojkeExnRjQJHB7TjmBft_pf1_CWsC"
+    },
+    {
+      "name": "credshelper",
+      "size": 7747656,
+      "executable": true,
+      "hash": "U-8t4ub8z-bQLzXDhu5z1T4u25UIlFhjvMRnQJOQ3-QC"
+    },
+    {
+      "name": "dumpstats",
+      "size": 14508115,
+      "executable": true,
+      "hash": "cpat_zCm8YhwCla2d_JsAR4CHiM5bpFIQX3B7nwun1YC"
+    },
+    {
+      "name": "logdump",
+      "size": 14319667,
+      "executable": true,
+      "hash": "BHvJTbLAyXASbbauA5Au_i6xDOXu5KkIW0D-Tt8Ul20C"
+    },
+    {
+      "name": "metricsuploader",
+      "size": 23077367,
+      "executable": true,
+      "hash": "p_By90eGSesEn0d6i537nZg66evY7eO5Yhz3Qem5d3QC"
+    },
+    {
+      "name": "reclientreport",
+      "size": 15032685,
+      "executable": true,
+      "hash": "6Ld5UyvDaNVhqqd6fnGgQN6F3ocNkzJKmbpR6WbK12wC"
+    },
+    {
+      "name": "remotetool",
+      "size": 18031595,
+      "executable": true,
+      "hash": "vVC3rSbU68Y7tKOC_Ae7W85SKktPARvvmXgPUMR2KPEC"
+    },
+    {
+      "name": "reproxy",
+      "size": 26187470,
+      "executable": true,
+      "hash": "oFD3jboTHlQnQ_2xyjoTTxqUdR42r1boaXvoGieK9KoC"
+    },
+    {
+      "name": "reproxystatus",
+      "size": 13452130,
+      "executable": true,
+      "hash": "wp2qOCG50Xd_qAaThcWBGr1tY2TJjUyDcxXRtDoc2kYC"
+    },
+    {
+      "name": "rewrapper",
+      "size": 13870096,
+      "executable": true,
+      "hash": "pX-P3-92kxlHwIhPKMNxTUa1Ghtg8WaBIDf163MtoZgC"
+    },
+    {
+      "name": "rpl2cloudtrace",
+      "size": 17645915,
+      "executable": true,
+      "hash": "LLKEiAi8J0vOmtl98Ys-KcnECohYvcxdBOFTbv6N6XoC"
+    },
+    {
+      "name": "rpl2trace",
+      "size": 14341446,
+      "executable": true,
+      "hash": "CKI98AfznVv2DLxuOnM5zpQgMyQk3niTYq1ObDBHO1YC"
+    },
+    {
+      "name": "scandeps_server",
+      "size": 9198160,
+      "executable": true,
+      "hash": "_ix2h58PSsd_gNxkXqbFo6eICZvoRK9zzppo8WD4ZVEC"
+    },
+    {
+      "name": "scandeps_server.sym",
+      "size": 23018222,
+      "hash": "HShv8bZiAcindzhOPsJNY35EVlcJQVw6gdZ6AKi8OY8C"
+    }
+  ]
+}
