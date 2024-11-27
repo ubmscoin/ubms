@@ -152,7 +152,7 @@ UBMS의 채굴 보상은 공정한 분산화를 보장하기 위해 채굴자의
 - **블록 생성 시간:** 10분/block  
 - **반감기 간격 블록 수** $$H'$$:
 
-$$H' = 2 \times 365 \times \frac{24 \times 60}{10} = 2 \times 365 \times 144 = 105,120 \text{ 블록}$$
+# $$H' = 2 \times 365 \times \frac{24 \times 60}{10} = 2 \times 365 \times 144 = 105,120 \text{ 블록}$$
 
 - **목표 총 채굴량:** 20,000,000개
 
@@ -167,11 +167,11 @@ $$H' = 2 \times 365 \times \frac{24 \times 60}{10} = 2 \times 365 \times 144 = 1
 
 총 채굴량 $$C$$는 다음과 같이 계산됩니다:
 
-$$C = R_0' \times H' \times 2 = 20,000,000 \text{ 개}$$
+# $$C = R_0' \times H' \times 2 = 20,000,000 \text{ 개}$$
 
 따라서 초기 보상 $$R_0'$$는:
 
-$$R_0' = \frac{C}{2 \times H'} = \frac{20,000,000}{2 \times 105,120} \approx 95.238095 \text{ 개/block}$$
+## $$R_0' = \frac{C}{2 \times H'} = \frac{20,000,000}{2 \times 105,120} \approx 95.238095 \text{ 개/block}$$
 
 **보상 스케줄 및 총 채굴량**
 
@@ -194,7 +194,7 @@ $$R_0' = \frac{C}{2 \times H'} = \frac{20,000,000}{2 \times 105,120} \approx 95.
 
 - **총 채굴 코인 수 $$C_2$$:**
 
-$$C_2 = \sum_{k=0}^{10} C_k \approx 19,980,234.375 \text{ 개}$$
+# $$C_2 = \sum_{k=0}^{10} C_k \approx 19,980,234.375 \text{ 개}$$
 
 - **총 채굴 기간:** $$(10 + 1) \times 2 \text{ 년} = 22 \text{ 년}$$
 
