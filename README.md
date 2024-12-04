@@ -73,7 +73,7 @@ UBMS의 채굴 보상은 공정한 분산화를 보장하기 위해 채굴자의
 #### **보상 분배 공식**
 채굴 보상은 다음과 같이 계산됩니다:
 
-$$B_i = R \times \frac{S_i}{S_{\text{total}}}$$
+# $$B_i = R \times \frac{S_i}{S_{\text{total}}}$$
 
 - $$B_i$$: 채굴자 $$i$$가 받을 보상
 - $$R$$: 블록 생성 시 총 보상
@@ -133,9 +133,9 @@ $$B_i = R \times \frac{S_i}{S_{\text{total}}}$$
 
 **초기 채굴 단계 요약**  
 - **총 채굴 코인 수 $$C₁$$:**  
-  $$C₁ = \sum_{k=0}^{N₁-1} \left( \frac{R₀}{2^k} \times H \right) + \left( \frac{R₀}{2^{N₁}} \times (T₁ - N₁ \times H) \right)$$  
+  # $$C₁ = \sum_{k=0}^{N₁-1} \left( \frac{R₀}{2^k} \times H \right) + \left( \frac{R₀}{2^{N₁}} \times (T₁ - N₁ \times H) \right)$$  
 - **계산 결과:**  
-  $$C₁ = (1,400 \times 720) + (700 \times 720) + (350 \times 720) \approx 1,036,000 \, \text{개}$$  
+  ## $$C₁ = (1,400 \times 720) + (700 \times 720) + (350 \times 720) \approx 1,036,000 \, \text{개}$$  
 
 ---
 
@@ -172,7 +172,7 @@ $$B_i = R \times \frac{S_i}{S_{\text{total}}}$$
 
 **후반 채굴 단계 요약**  
 - **총 채굴 코인 수 $$C₂$$:**  
-  $$C₂ = \sum_{k=0}^{9} \left( \frac{R₀'}{2^k} \times H' \right) \approx 19,985,296 \, \text{개}$$  
+  # $$C₂ = \sum_{k=0}^{9} \left( \frac{R₀'}{2^k} \times H' \right) \approx 19,985,296 \, \text{개}$$  
 
 ---
 
