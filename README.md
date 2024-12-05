@@ -135,7 +135,7 @@ UBMS의 채굴 보상은 공정한 분산화를 보장하기 위해 채굴자의
 - **총 채굴 코인 수 $$C₁$$:**  
   # $$C₁ = \sum_{k=0}^{N-1} \left( \frac{R₀}{2^k} \times H \right) + \left( \frac{R₀}{2^{N}} \times (T - N \times H) \right)$$  
 - **계산 결과:**  
- ## $$C₁ = (794 \times 720) + (397 \times 720) + (198.5 \times 720) = 1,000,440 \, \text{개}$$  
+  ## $$C₁ = (794 \times 720) + (397 \times 720) + (198.5 \times 720) = 1,000,440 \, \text{개}$$  
 
 
 ---
