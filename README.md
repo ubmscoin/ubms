@@ -1,6 +1,6 @@
 # **백서** UBMS  
 **작성일:** 2024-11-26  
-**버전:** 0.97
+**버전:** 0.971
 
 ---
 
@@ -29,7 +29,7 @@
        3.3.4. 수수료  
        3.3.5. 비트코인과 이더리움의 수수료 비교  
 4. 네트워크 구조   
-   4.1. UBMS만의 독창적 기술 PSAN (Role-Polymorphic Self-Adjusting Network) 소개  
+   4.1. UBMS의 혼잡방지 기술 PSAN (Role-Polymorphic Self-Adjusting Network) 소개  
    4.2. 청사진 (blueprint) 개념  
    4.3. UBMS 독자적 방식 주요 단계  
    4.4. 노드 수별 blueprint 예시  
@@ -418,7 +418,7 @@ UBMS의 수수료 공식은 외부에서 수신한 시장가와 내부상수로 
 
 ## **4. 네트워크 구조**  
 
-### **4.1. UBMS만의 독창적 기술 PSAN (Role-Polymorphic Self-Adjusting Network) 소개**
+### **4.1. UBMS의 혼잡방지 기술 PSAN (Role-Polymorphic Self-Adjusting Network) 소개**
 
 - 청사진 정적해법과 AI 동적해법을 동시에 제안합니다.
 - 메시지 폭증 방지, CF(혼잡 트래픽) 완화를 목표합니다.
