@@ -555,13 +555,13 @@ PoW, PoS, PoB를 통합한 하이브리드 메커니즘을 도입하여 에너�
 
 ### **5.4. 역할다형성 자가조정 네트워크**
 
-PSAN (Role-Polymorphic Self-Adjusting Network)를 자체설계 하여 네트워크 혼잡을 해결한 UBMS의 네트워크 솔루션입니다.  
+PSAN (Role-Polymorphic Self-Adjusting Network)는 네트워크 혼잡을 해결하기 위한 UBMS의 네트워크 독자 솔루션입니다.  
 자세한 내용은 상기의 **4. 네트워크 구조**에 상세히 설명하였습니다.
 
 ### **5.5. UTXO 기반 메타데이터 스마트 컨트랙트**
 UBMS (UTXO-Based Metadata Smart Contract)  
-비트코인의 UTXO 모델을 기반으로 하면서도 스마트 컨트랙트를 실행할 수 있는 독창적 UBMS 구조를 설계하였고,  
-스마트컨트랙트 부분은 장차 구현할 예정입니다.
+비트코인의 UTXO 모델을 기반으로 하면서도 스마트 컨트랙트를 실행할 수 있는 독창적 UBMS 구조를 미리 설계하였고,  
+스마트 컨트랙트 부분은 UBMS의 동적 자가연산 블록(Dynamic Self-Computing Block) 기술로 장차 구현할 예정입니다.
 
 #### **5.5.1. RGB 프로토콜 vs. 카르다노(eUTXO) vs. UBMS 비교**
 
