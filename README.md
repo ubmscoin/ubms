@@ -1,6 +1,6 @@
 # **백서** UBMS  
 **작성일:** 2024-11-26  
-**버전:** 0.971
+**버전:** 0.972
 
 ---
 
@@ -448,9 +448,9 @@ UBMS의 수수료 공식은 외부에서 수신한 시장가와 내부상수로 
 아래는 노드 수 $$(N)$$ 증가에 따라 릴레이 $$(R)$$ ·투표자 $$(V)$$를 설정하는 하나의 예시입니다.  
 항상 홀수를 사용하고, $$(\log_2(N))$$ 기반으로 서서히 늘립니다.
 
-# $$R = \max\bigl(3,\; \lfloor \tfrac{\log_2(N)}{2} \rfloor \times 2 + 1\bigr)$$
+# $$R = \max\bigl(3, \tfrac{\log_2(N)}{2} \times 2 + 1\bigr)$$
 
-# $$V = \max\bigl(11,\; \lfloor \tfrac{\log_2(N)}{1.2} \rfloor \times 2 + 1\bigr)$$
+# $$V = \max\bigl(11, \tfrac{\log_2(N)}{1.2} \times 2 + 1\bigr)$$
 
 청사진값 예시:
 
