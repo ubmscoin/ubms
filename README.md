@@ -105,8 +105,8 @@ UBMS(UTXO-Based Metadata Smart Contract)는 기존 비트코인의 한계를 극
 | 직렬화 성능         | 평균 처리 시간 0.15ms, FlatBuffers/ProtoBuf 대비 최소 오버헤드 구현              |
 | 분산성 구조         | 비콘체인 없는 완전 분산 구조, 릴레이·투표자가 전담, 단일 실패점 제거               |
 | 노드 최소 구성      | 릴레이 3, 투표자 5, 채굴자 1 → 최소 9노드로 완전한 합의 가능                      |
-| 청사진 시스템       | log₂(N) 기반 R/V 계산식으로 노드 수 증감에 따라 네트워크 자동 조정                |
-| 미래 확장성         | DSCB(Dynamic Self-Computing Block) 기반 VM없는 스마트 계약 예정                   |
+| 청사진 시스템       | log₂(N) 기반 BP 계산식으로 노드 수 증감에 따라 네트워크 자동 조정                |
+| 미래 확장성         | DSCB(Dynamic Self-Computing Block) 기반 스마트 계약 예정                   |
 
 
 UBMS는 위와 같은 독창적 기술들을 바탕으로,  
