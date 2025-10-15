@@ -1,6 +1,6 @@
 # **백서** UBMS  
 **작성일:** 2024-11-26  
-**버전:** 1.7
+**버전:** 1.8
 
 ---
 
@@ -28,7 +28,7 @@
        3.3.3. 외부변수,내부상수  
        3.3.4. 수수료  
        3.3.5. 비트코인과 이더리움의 수수료 비교  
-5. 네트워크 구조   
+4. 네트워크 구조   
    4.1. UBMS의 혼잡방지 기술 PSAN (Role-Polymorphic Self-Adjusting Network) 소개  
    4.2. 청사진 (blueprint) 개념  
    4.3. UBMS 독자적 방식 주요 단계  
@@ -38,7 +38,7 @@
        4.5.2. 노드 수: 1,000개  
        4.5.3. 노드 수: 10,000개  
        4.5.4. 노드 수: 100,000개
-6. UBMS 독창적 기술 특징  
+5. UBMS 독창적 기술 특징  
    5.1. 완전 독립적 코드베이스  
    5.2. 합의 알고리즘  
    5.3. 스마트 계약 대체 기술  
@@ -50,10 +50,11 @@
        5.6.2. 평균 처리 시간   
    5.7 완전 분산형 구조   
        5.7.1 비콘체인(Beacon Chain)이 없다   
-7. 가운영(준운영) 정의  
-8. 블록체인 위기 대응 매뉴얼  
-9. 참여자 위험 고지 (면책조항)   
-10. 로드맵
+6. 가운영(준운영) 정의  
+7. 블록체인 위기 대응 매뉴얼  
+8. 참여자 위험 고지 (면책조항)   
+9. 로드맵
+10. 부록 특허출원 
     
 
 ---
@@ -902,5 +903,29 @@ UBMS는 통신을 위한 경량 직렬화를 구현하였고 매우 유연하고
     - 모범적인 탈중앙화 생태계를 목표로, 참여자 모두가 합심하여 꾸준히 개선·진화합니다.
 
 ---   
+
+## 10. 부록 특허출원
+
+
+
+<div style="line-height:0">
+  <img src="./patent/ubms_특허문서-01.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-02.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-03.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-04.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-05.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-06.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-07.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-08.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-09.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-10.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-11.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-12.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-13.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-14.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-15.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-16.jpg" style="display:block;margin:0;padding:0" />
+  <img src="./patent/ubms_특허문서-17.jpg" style="display:block;margin:0;padding:0" />
+</div>
 
 
